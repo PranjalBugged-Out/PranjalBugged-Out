@@ -1,4 +1,5 @@
-![GitHub Banner](https://raw.githubusercontent.com/PranjalBugged-Out/main/banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/PranjalBugged-Out/PranjalBugged-Out/main/banner.png)
+
 
 
 
