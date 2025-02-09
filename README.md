@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+![GitHub Banner](https://raw.githubusercontent.com/username/repository/main/banner_github.png)
+
 
 ## Hello World! I'm Pranjal,<br> #a cybersecurity and web development enthusiast passionate about securing digital systems and building dynamic web applications. I explore ethical hacking, penetration testing, and secure coding practices while also developing innovative web solutions. 🚀👋🏼:
 🛜 currently working on my own projects,<br>👨🏼‍🎓 studying CSE with specialization in Cyber Security from SRM University - Kattankulathur<br>🎬 just started learning and doing projects in the field</i>
