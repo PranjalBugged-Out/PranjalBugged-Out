@@ -1,4 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/PranjalBugged-Out/main/banner.png)
 
 
 
