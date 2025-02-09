@@ -1,4 +1,5 @@
-![GitHub Banner](https://raw.githubusercontent.com/username/repository/main/banner_github.png)
+![GitHub Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png)
+
 
 
 ## Hello World! I'm Pranjal,<br> #a cybersecurity and web development enthusiast passionate about securing digital systems and building dynamic web applications. I explore ethical hacking, penetration testing, and secure coding practices while also developing innovative web solutions. 🚀👋🏼:
