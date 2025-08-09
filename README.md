@@ -3,7 +3,35 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00D4FF&height=200&section=header&text=Pranjal%20Babel&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20CTF%20Player&descAlign=50&descAlignY=75" alt="Header"/>
 </div>
 
-<p align="center">I build secure, resilient apps and break things (ethically) to make them stronger.</p>
+<div align="center">
+  <!-- Animated role rotator (lightweight SVG, no external JS) -->
+  <svg viewBox="0 0 900 70" width="100%" height="70">
+    <defs>
+      <linearGradient id="introGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#6A00FF">
+          <animate attributeName="stop-color" values="#6A00FF;#00D4FF;#6A00FF" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#00D4FF">
+          <animate attributeName="stop-color" values="#00D4FF;#6A00FF;#00D4FF" dur="6s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+      <style>
+        .intro-text { font: 700 22px 'Segoe UI', Ubuntu, Sans-Serif; fill: url(#introGrad); }
+        @media (prefers-reduced-motion: reduce) { .intro-text { fill: #8ab4f8; } }
+      </style>
+    </defs>
+    <text class="intro-text" x="50%" y="45" dominant-baseline="middle" text-anchor="middle" opacity="1">AppSec • Red Team • Cloud Security
+      <animate attributeName="opacity" values="1;0;0" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text class="intro-text" x="50%" y="45" dominant-baseline="middle" text-anchor="middle" opacity="0">Secure Flask • Auth • CSP • Input Validation
+      <animate attributeName="opacity" values="0;1;0" dur="9s" begin="3s" repeatCount="indefinite"/>
+    </text>
+    <text class="intro-text" x="50%" y="45" dominant-baseline="middle" text-anchor="middle" opacity="0">CTF Player • Threat Modeling • DFIR
+      <animate attributeName="opacity" values="0;0;1" dur="9s" begin="6s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+  <sub style="color:#9aa4b2">I build secure, resilient apps and break things (ethically) to make them stronger.</sub>
+</div>
 
 - <p align="center">
   <a href="https://pranjal-babel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" /></a>
