@@ -44,12 +44,31 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/PranjalBugged-Out">
-    <img alt="GitHub stats" height="160" src="https://github-readme-stats.vercel.app/api?username=PranjalBugged-Out&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/PranjalBugged-Out">
-    <img alt="Top languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalBugged-Out&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
+
+<!-- Row 1: Stats + Streak -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PranjalBugged-Out">
+        <img alt="Pranjal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PranjalBugged-Out&show_icons=true&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PranjalBugged-Out">
+        <img alt="Pranjal's GitHub streak" src="https://streak-stats.demolab.com?user=PranjalBugged-Out&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/PranjalBugged-Out">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalBugged-Out&layout=compact&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  
+</table>
+
 </div>
 
 
