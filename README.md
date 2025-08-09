@@ -45,11 +45,11 @@
 
 <div align="center">
 
-<a href="https://github.com/PranjalBugged-Out/Equifax-Data-Breach-Educational-Video">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranjalBugged-Out&repo=Equifax-Data-Breach-Educational-Video&theme=tokyonight&hide_border=true" alt="Equifax Breach Educational Demo"/>
+<a href="https://github.com/PranjalBugged-Out/Video-Proctor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranjalBugged-Out&repo=Video-Proctor&theme=tokyonight&hide_border=true" alt="Video Proctor"/>
 </a>
-<a href="https://github.com/PranjalBugged-Out/PranjalBugged-Out">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranjalBugged-Out&repo=PranjalBugged-Out&theme=tokyonight&hide_border=true" alt="Profile README"/>
+<a href="https://github.com/PranjalBugged-Out/Sustainlyze">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranjalBugged-Out&repo=Sustainlyze&theme=tokyonight&hide_border=true" alt="Sustainlyze"/>
 </a>
 
 </div>
