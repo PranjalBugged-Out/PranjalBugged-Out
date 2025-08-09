@@ -43,5 +43,21 @@
 
 </div>
 
+### 🗺️ Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalBugged-Out&theme=tokyo-night&hide_border=true" alt="Pranjal's Activity Graph" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PranjalBugged-Out/PranjalBugged-Out/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
+
 
 
