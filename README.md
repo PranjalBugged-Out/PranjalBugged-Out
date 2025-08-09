@@ -51,21 +51,43 @@ Check specific years directly on GitHub:
 - **2024**: https://github.com/PranjalBugged-Out?tab=overview&from=2024-01-01&to=2024-12-31
 - **2023**: https://github.com/PranjalBugged-Out?tab=overview&from=2023-01-01&to=2023-12-31
 
-### 🗺️ Activity Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalBugged-Out&theme=tokyo-night&hide_border=true" alt="Pranjal's Activity Graph" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&color=6AA6FF&center=true&vCenter=true&width=850&lines=Cybersecurity+%26+Web+Dev;CTF+player+%7C+Secure+coding+advocate;Always+learning+new+exploits+%26+defenses" alt="Typing SVG" />
 
 </div>
 
-### 🐍 Contribution Snake
+### 🧰 Toolbelt (at a glance)
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PranjalBugged-Out/PranjalBugged-Out/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-<br/>
-<img src="https://raw.githubusercontent.com/PranjalBugged-Out/PranjalBugged-Out/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
+<img src="https://skillicons.dev/icons?i=python,flask,js,react,nodejs,mongodb,postgres,redis,docker,linux,bash,git,aws,gcp,figma,vscode&perline=8" alt="Skills" />
+
+</div>
+
+### ⭐ Featured Project
+
+<div align="center">
+
+<a href="https://github.com/PranjalBugged-Out/Equifax-Data-Breach-Educational-Video">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranjalBugged-Out&repo=Equifax-Data-Breach-Educational-Video&theme=tokyonight&hide_border=true" alt="Equifax Demo"/>
+</a>
+
+</div>
+
+### 💬 Favorite quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+
+</div>
+
+### 📟 Badges
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=PranjalBugged-Out&style=flat-square&color=blueviolet" alt="Profile views"/>
 
 </div>
 
