@@ -49,23 +49,7 @@
 
 </div>
 
-### 🧰 Toolbelt (at a glance)
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,js,react,nodejs,mongodb,postgres,redis,docker,linux,bash,git,aws,gcp,figma,vscode&perline=8" alt="Skills" />
-
-</div>
-
-### ⭐ Featured Project
-
-<div align="center">
-
-<a href="https://github.com/PranjalBugged-Out/Equifax-Data-Breach-Educational-Video">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranjalBugged-Out&repo=Equifax-Data-Breach-Educational-Video&theme=tokyonight&hide_border=true" alt="Equifax Demo"/>
-</a>
-
-</div>
 
 
 
