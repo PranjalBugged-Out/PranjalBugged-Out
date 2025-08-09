@@ -6,11 +6,7 @@
 ## Hello World! I'm Pranjal,<br>a cybersecurity and web development enthusiast passionate about securing digital systems and building dynamic web applications. I explore ethical hacking, penetration testing, and secure coding practices while also developing innovative web solutions. 🚀👋🏼:
 🛜 currently working on my own projects,<br>👨🏼‍🎓 studying CSE with specialization in Cyber Security from SRM University - Kattankulathur
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=700&color=6AA6FF&center=true&vCenter=true&width=900&lines=CTF+player+%7C+Secure+coding+advocate" alt="CTF player | Secure coding advocate" />
-
-</div>
+<p align="center"><b>Cybersecurity & Web Dev • CTF player • Secure coding advocate</b></p>
 
 
 # 💻 Tech Stack (compact)
@@ -57,11 +53,7 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&color=6AA6FF&center=true&vCenter=true&width=850&lines=Cybersecurity+%26+Web+Dev;CTF+player+%7C+Secure+coding+advocate;Always+learning+new+exploits+%26+defenses" alt="Typing SVG" />
-
-</div>
 
 
 
