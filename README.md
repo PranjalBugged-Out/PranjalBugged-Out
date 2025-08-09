@@ -83,17 +83,6 @@
   </a>
 <img src="https://komarev.com/ghpvc/?username=PranjalBugged-Out&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
-<!-- Social / contact -->
-<a href="https://www.linkedin.com/in/pranjalbabel">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-</a>
-<a href="https://pranjal-babel.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:pranjalbabel08@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-</a>
-
 <!-- Achievement -->
 <a href="https://www.linkedin.com/in/pranjalbabel/">
   <img src="https://img.shields.io/badge/Hackathon-Winner-8A2BE2?style=for-the-badge" alt="Hackathon Winner"/>
