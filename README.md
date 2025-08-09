@@ -13,4 +13,35 @@
 
 
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Row 1: Stats + Streak -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PranjalBugged-Out">
+        <img alt="Pranjal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PranjalBugged-Out&show_icons=true&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PranjalBugged-Out">
+        <img alt="Pranjal's GitHub streak" src="https://streak-stats.demolab.com?user=PranjalBugged-Out&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/PranjalBugged-Out">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalBugged-Out&layout=compact&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  
+</table>
+
+</div>
+
+
 
