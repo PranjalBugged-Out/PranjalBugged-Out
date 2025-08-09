@@ -1,13 +1,17 @@
-![GitHub Banner](https://raw.githubusercontent.com/PranjalBugged-Out/PranjalBugged-Out/main/banner.png)
-
-
-
-
+<!-- Hero -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00D4FF&height=200&section=header&text=Pranjal%20Babel&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20CTF%20Player&descAlign=50&descAlignY=75" alt="Header"/>
 </div>
 
 <p align="center">I build secure, resilient apps and break things (ethically) to make them stronger.</p>
+
+- <p align="center">
+  <a href="https://pranjal-babel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pranjalbabel"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:pranjalbabel08@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  </p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:00D4FF&height=2&section=footer" alt="divider"/></p>
 
 - 🔭 Currently building red‑team demos and secure Flask apps
 - 🎓 CSE (Cyber Security) at SRM University – Kattankulathur
