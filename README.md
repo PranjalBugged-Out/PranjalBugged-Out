@@ -20,7 +20,13 @@
 - 🎓 B.Tech CSE (Cyber Security), SRM University – Kattankulathur
 - 🤝 Open to AppSec, pentest, and cloud security collaborations
 
+<div align="center">
 
+<img src="https://img.shields.io/badge/Focus-AppSec-6A00FF?style=for-the-badge&labelColor=1f1f1f" alt="Focus AppSec"/>
+<img src="https://img.shields.io/badge/CTF-Training-00D4FF?style=for-the-badge&labelColor=1f1f1f" alt="CTF"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Security-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1f1f1f" alt="AWS Security"/>
+
+</div>
 
 
 
