@@ -3,8 +3,15 @@
 
 
 
-## Hello World! I'm Pranjal,<br>a cybersecurity and web development enthusiast passionate about securing digital systems and building dynamic web applications. I explore ethical hacking, penetration testing, and secure coding practices while also developing innovative web solutions. 🚀👋🏼:
-🛜 currently working on my own projects,<br>👨🏼‍🎓 studying CSE with specialization in Cyber Security from SRM University - Kattankulathur
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00D4FF&height=200&section=header&text=Pranjal%20Babel&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20%E2%80%A2%20Web%20Dev%20%E2%80%A2%20CTF%20Player&descAlign=50&descAlignY=75" alt="Header"/>
+</div>
+
+<p align="center">I build secure, resilient apps and break things (ethically) to make them stronger.</p>
+
+- 🔭 Currently building red‑team demos and secure Flask apps
+- 🎓 CSE (Cyber Security) at SRM University – Kattankulathur
+- 🚀 Open to collaborations on AppSec, pentesting and cloud security
 
 <p align="center"><b>Cybersecurity & Web Dev • CTF player • Secure coding advocate</b></p>
 
