@@ -55,7 +55,9 @@
       <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900"/>
       <br/>
-      <img src="https://opengraph.githubassets.com/1/PranjalBugged-Out/video_proctor" alt="Video Proctor preview" width="100%"/>
+      <div style="background:#0d1117;border:1px solid #222;border-radius:10px;padding:6px;">
+        <img src="https://opengraph.githubassets.com/1/PranjalBugged-Out/video_proctor" alt="Video Proctor preview" style="width:100%;border-radius:6px;"/>
+      </div>
       <br/>
       <a href="https://github.com/PranjalBugged-Out/video_proctor#readme"><img src="https://img.shields.io/badge/Live%20Demo-00b894?style=for-the-badge" alt="Video Proctor demo"/></a>
       <a href="https://github.com/PranjalBugged-Out/video_proctor"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="Video Proctor repo"/></a>
@@ -69,7 +71,9 @@
       <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"/>
       <br/>
-      <img src="https://opengraph.githubassets.com/1/PranjalBugged-Out/Sustinlyze360" alt="Sustinlyze360 preview" width="100%"/>
+      <div style="background:#0d1117;border:1px solid #222;border-radius:10px;padding:6px;">
+        <img src="https://opengraph.githubassets.com/1/PranjalBugged-Out/Sustinlyze360" alt="Sustinlyze360 preview" style="width:100%;border-radius:6px;"/>
+      </div>
       <br/>
       <a href="https://github.com/PranjalBugged-Out/Sustinlyze360#readme"><img src="https://img.shields.io/badge/Live%20Demo-00b894?style=for-the-badge" alt="Sustinlyze360 demo"/></a>
       <a href="https://github.com/PranjalBugged-Out/Sustinlyze360"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="Sustinlyze360 repo"/></a>
