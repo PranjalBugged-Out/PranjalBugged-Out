@@ -48,21 +48,25 @@
 <table>
   <tr>
     <td width="48%">
-      <h4><a href="https://github.com/PranjalBugged-Out/Video-Proctor">Video Proctor</a></h4>
+      <h4><a href="https://github.com/PranjalBugged-Out/video_proctor">Video Proctor</a></h4>
       <sub>AI‑assisted exam proctoring with face/activity checks and secure workflow.</sub>
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B"/>
       <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900"/>
+      <br/>
+      <a href="https://github.com/PranjalBugged-Out/video_proctor"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?logo=github&logoColor=white" alt="Video Proctor repo"/></a>
     </td>
     <td width="4%"></td>
     <td width="48%">
-      <h4><a href="https://github.com/PranjalBugged-Out/Sustainlyze">Sustainlyze</a></h4>
+      <h4><a href="https://github.com/PranjalBugged-Out/Sustinlyze360">Sustinlyze360</a></h4>
       <sub>Carbon and resource analytics dashboard to measure and reduce footprint.</sub>
       <br/>
       <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"/>
+      <br/>
+      <a href="https://github.com/PranjalBugged-Out/Sustinlyze360"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?logo=github&logoColor=white" alt="Sustinlyze360 repo"/></a>
     </td>
   </tr>
 </table>
