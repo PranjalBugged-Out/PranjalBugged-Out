@@ -4,32 +4,7 @@
 </div>
 
 <div align="center">
-  <!-- Animated role rotator (lightweight SVG, no external JS) -->
-  <svg viewBox="0 0 900 70" width="100%" height="70">
-    <defs>
-      <linearGradient id="introGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#6A00FF">
-          <animate attributeName="stop-color" values="#6A00FF;#00D4FF;#6A00FF" dur="6s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#00D4FF">
-          <animate attributeName="stop-color" values="#00D4FF;#6A00FF;#00D4FF" dur="6s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-      <style>
-        .intro-text { font: 700 22px 'Segoe UI', Ubuntu, Sans-Serif; fill: url(#introGrad); }
-        @media (prefers-reduced-motion: reduce) { .intro-text { fill: #8ab4f8; } }
-      </style>
-    </defs>
-    <text class="intro-text" x="50%" y="45" dominant-baseline="middle" text-anchor="middle" opacity="1">AppSec • Red Team • Cloud Security
-      <animate attributeName="opacity" values="1;0;0" dur="9s" repeatCount="indefinite"/>
-    </text>
-    <text class="intro-text" x="50%" y="45" dominant-baseline="middle" text-anchor="middle" opacity="0">Secure Flask • Auth • CSP • Input Validation
-      <animate attributeName="opacity" values="0;1;0" dur="9s" begin="3s" repeatCount="indefinite"/>
-    </text>
-    <text class="intro-text" x="50%" y="45" dominant-baseline="middle" text-anchor="middle" opacity="0">CTF Player • Threat Modeling • DFIR
-      <animate attributeName="opacity" values="0;0;1" dur="9s" begin="6s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=6AA0FF&center=true&vCenter=true&width=900&lines=AppSec+%E2%80%A2+Red+Team+%E2%80%A2+Cloud+Security;Secure+Flask+%E2%80%A2+Auth+%E2%80%A2+CSP+%E2%80%A2+Input+Validation;CTF+Player+%E2%80%A2+Threat+Modeling+%E2%80%A2+DFIR" alt="animated roles" />
   <sub style="color:#9aa4b2">I build secure, resilient apps and break things (ethically) to make them stronger.</sub>
 </div>
 
