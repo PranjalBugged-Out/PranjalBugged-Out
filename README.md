@@ -13,11 +13,18 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:00D4FF&height=2&section=footer" alt="divider"/></p>
 
-- 🔭 Currently building red‑team demos and secure Flask apps
-- 🎓 CSE (Cyber Security) at SRM University – Kattankulathur
-- 🚀 Open to collaborations on AppSec, pentesting and cloud security
+- 🔭 Shipping red‑team demos and hardening Flask apps (auth, input validation, CSP)
+- 🎓 B.Tech CSE (Cyber Security), SRM University – Kattankulathur
+- 🤝 Open to AppSec, pentest, and cloud security collaborations
 
-<p align="center"><b>Cybersecurity & Web Dev • CTF player • Secure coding advocate</b></p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-AppSec-6A00FF?style=for-the-badge&labelColor=1f1f1f" alt="Focus AppSec"/>
+<img src="https://img.shields.io/badge/CTF-Training-00D4FF?style=for-the-badge&labelColor=1f1f1f" alt="CTF"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Security-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1f1f1f" alt="AWS Security"/>
+
+</div>
 
 
 # 💻 Tech Stack (compact)
@@ -70,25 +77,7 @@
 
 
 
-### 📟 Badges
-
-<div align="center">
-
-<!-- Profile metrics -->
-<a href="https://github.com/PranjalBugged-Out?tab=followers">
-  <img src="https://img.shields.io/github/followers/PranjalBugged-Out?logo=github&style=for-the-badge" alt="Followers"/>
-  </a>
-<a href="https://github.com/PranjalBugged-Out?tab=repositories&type=source">
-  <img src="https://img.shields.io/github/stars/PranjalBugged-Out?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge" alt="Stars"/>
-  </a>
-<img src="https://komarev.com/ghpvc/?username=PranjalBugged-Out&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<!-- Achievement -->
-<a href="https://www.linkedin.com/in/pranjalbabel/">
-  <img src="https://img.shields.io/badge/Hackathon-Winner-8A2BE2?style=for-the-badge" alt="Hackathon Winner"/>
-</a>
-
-</div>
+<!-- Unique section replaces badges: minimalist focus chips above -->
 
 
 
