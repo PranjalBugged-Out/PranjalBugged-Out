@@ -43,6 +43,14 @@
 
 </div>
 
+### 📅 Year quick links
+
+Check specific years directly on GitHub:
+
+- **2025**: https://github.com/PranjalBugged-Out?tab=overview&from=2025-01-01&to=2025-12-31
+- **2024**: https://github.com/PranjalBugged-Out?tab=overview&from=2024-01-01&to=2024-12-31
+- **2023**: https://github.com/PranjalBugged-Out?tab=overview&from=2023-01-01&to=2023-12-31
+
 ### 🗺️ Activity Graph
 
 <div align="center">
@@ -56,6 +64,8 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/PranjalBugged-Out/PranjalBugged-Out/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<br/>
+<img src="https://raw.githubusercontent.com/PranjalBugged-Out/PranjalBugged-Out/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
 
 </div>
 
