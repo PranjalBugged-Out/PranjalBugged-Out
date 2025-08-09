@@ -43,14 +43,6 @@
 
 </div>
 
-### 📅 Year quick links
-
-Check specific years directly on GitHub:
-
-- **2025**: https://github.com/PranjalBugged-Out?tab=overview&from=2025-01-01&to=2025-12-31
-- **2024**: https://github.com/PranjalBugged-Out?tab=overview&from=2024-01-01&to=2024-12-31
-- **2023**: https://github.com/PranjalBugged-Out?tab=overview&from=2023-01-01&to=2023-12-31
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&color=6AA6FF&center=true&vCenter=true&width=850&lines=Cybersecurity+%26+Web+Dev;CTF+player+%7C+Secure+coding+advocate;Always+learning+new+exploits+%26+defenses" alt="Typing SVG" />
@@ -75,13 +67,7 @@ Check specific years directly on GitHub:
 
 </div>
 
-### 💬 Favorite quote
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-
-</div>
 
 ### 📟 Badges
 
